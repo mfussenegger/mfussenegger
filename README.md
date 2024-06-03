@@ -18,7 +18,17 @@
 - [knx](https://github.com/mfussenegger/knx) - Python knx / eib client library
 - [mkjson](https://github.com/mfussenegger/mkjson) - A commandline tool to generate static or random JSON records
 
-### Neovim Plugins
+
+### 🐛Debug adapter protocol
+
+- [hprofdap](https://github.com/mfussenegger/hprofdap) - Debug adapter that allows to inspect Java heap dumps (.hprof files) via OQL
+- [dapconfig-schema](https://github.com/mfussenegger/dapconfig-schema) - JSON Schema for .vscode/launch.json debug configuration files
+
+### Neovim
+
+- [nlua](https://github.com/mfussenegger/nlua) - Neovim as Lua interpreter
+
+#### Plugins
 
 - [nvim-dap](https://github.com/mfussenegger/nvim-dap) - A debugger/neovim client for debug adapters. (Implements the debug adapter protocol)
 - [nvim-dap-python](https://github.com/mfussenegger/nvim-dap-python) - Python extension for nvim-dap
@@ -27,4 +37,7 @@
 - [nvim-qwahl](https://github.com/mfussenegger/nvim-qwahl) - A collection of pickers using vim.ui.select. Complementary to nvim-fzy.
 - [nvim-lint](https://github.com/mfussenegger/nvim-lint) - An asynchronous linter plugin for Neovim. Complementary to the built-in Language Server Protocol support.
 - [nvim-lsp-compl](https://github.com/mfussenegger/nvim-lsp-compl) - A (auto-)completion plugin for Neovim focusing on LSP support.
-- [nvim-treehopper](https://github.com/mfussenegger/nvim-treehopper) - Region selection with hints on the AST nodes of a document powered by treesitter
+- [nvim-treehopper](https://github.com/mfussenegger/nvim-treehopper) - Region selection with hints on the AST nodes of a document powered by treesitter.
+- [nvim-ansible](https://github.com/mfussenegger/nvim-ansible) - `run` function to execute ansible playbooks, filetype patterns, improved `path`.
+- [nvim-snippasta](https://github.com/mfussenegger/nvim-snippasta) - copy text/code and paste it transformed into snippets using treesitter queries for tabstop detection.
+- [nvim-overfly](https://github.com/mfussenegger/nvim-overfly) - Provides keymaps to quickly fly around your source code.
