@@ -41,3 +41,4 @@
 - [nvim-ansible](https://github.com/mfussenegger/nvim-ansible) - `run` function to execute ansible playbooks, filetype patterns, improved `path`.
 - [nvim-snippasta](https://github.com/mfussenegger/nvim-snippasta) - copy text/code and paste it transformed into snippets using treesitter queries for tabstop detection.
 - [nvim-overfly](https://github.com/mfussenegger/nvim-overfly) - Provides keymaps to quickly fly around your source code.
+- [nluarepl](https://github.com/mfussenegger/nluarepl) - nlua debug adapter for evaluate/REPL and logpoint support.
