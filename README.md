@@ -16,7 +16,7 @@
 - [CrateDB](https://github.com/crate/crate) - A distributed SQL Database
 - [cr8](https://github.com/mfussenegger/cr8) - CLI collection of utilities for working with CrateDB or PostgreSQL. Benchmark queries, insert data.
 - [knx](https://github.com/mfussenegger/knx) - Python knx / eib client library
-- [mkjson](https://github.com/mfussenegger/mkjson) - A commandline tool to generate static or random JSON records
+- [mkjson](https://codeberg.org/mfussenegger/mkjson) - A commandline tool to generate static or random JSON records
 
 
 ### 🐛Debug adapter protocol
@@ -41,4 +41,4 @@
 - [nvim-ansible](https://github.com/mfussenegger/nvim-ansible) - `run` function to execute ansible playbooks, filetype patterns, improved `path`.
 - [nvim-snippasta](https://github.com/mfussenegger/nvim-snippasta) - copy text/code and paste it transformed into snippets using treesitter queries for tabstop detection.
 - [nvim-overfly](https://github.com/mfussenegger/nvim-overfly) - Provides keymaps to quickly fly around your source code.
-- [nluarepl](https://github.com/mfussenegger/nluarepl) - nlua debug adapter for evaluate/REPL and logpoint support.
+- [nluarepl](https://codeberg.org/mfussenegger/nluarepl) - nlua debug adapter for evaluate/REPL and logpoint support.
