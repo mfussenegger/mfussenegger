@@ -3,9 +3,9 @@
   •
   <b><a href="https://github.com/sponsors/mfussenegger">Sponsor</a></b>
   •
-  <b><a href="https://github.com/mfussenegger/dotfiles">My dotfiles</a></b>
+  <b><a href="https://codeberg.org/mfussenegger/dotfiles">My dotfiles</a></b>
   •
-  <b><a rel="me" href="https://social.fussenegger.pro/@mathias">🐦</a></b>
+  <b><a rel="me" href="https://social.fussenegger.pro/@mathias">🐘</a></b>
 </p>
 
 
@@ -14,8 +14,8 @@
 ### 🔩
 
 - [CrateDB](https://github.com/crate/crate) - A distributed SQL Database
-- [cr8](https://github.com/mfussenegger/cr8) - CLI collection of utilities for working with CrateDB or PostgreSQL. Benchmark queries, insert data.
-- [knx](https://github.com/mfussenegger/knx) - Python knx / eib client library
+- [cr8](https://codeberg.org/mfussenegger/cr8) - CLI collection of utilities for working with CrateDB or PostgreSQL. Benchmark queries, insert data.
+- [knx](https://codeberg.org/mfussenegger/knx) - Python knx / eib client library
 - [mkjson](https://codeberg.org/mfussenegger/mkjson) - A commandline tool to generate static or random JSON records
 
 
