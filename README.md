@@ -36,9 +36,12 @@
 - [nvim-fzy](https://github.com/mfussenegger/nvim-fzy) - A fuzzy finder like fzf.vim but for fzy and neovim with Lua API 
 - [nvim-qwahl](https://github.com/mfussenegger/nvim-qwahl) - A collection of pickers using vim.ui.select. Complementary to nvim-fzy.
 - [nvim-lint](https://github.com/mfussenegger/nvim-lint) - An asynchronous linter plugin for Neovim. Complementary to the built-in Language Server Protocol support.
-- [nvim-lsp-compl](https://github.com/mfussenegger/nvim-lsp-compl) - A (auto-)completion plugin for Neovim focusing on LSP support.
 - [nvim-treehopper](https://github.com/mfussenegger/nvim-treehopper) - Region selection with hints on the AST nodes of a document powered by treesitter.
 - [nvim-ansible](https://github.com/mfussenegger/nvim-ansible) - `run` function to execute ansible playbooks, filetype patterns, improved `path`.
 - [nvim-snippasta](https://github.com/mfussenegger/nvim-snippasta) - copy text/code and paste it transformed into snippets using treesitter queries for tabstop detection.
 - [nvim-overfly](https://github.com/mfussenegger/nvim-overfly) - Provides keymaps to quickly fly around your source code.
 - [nluarepl](https://codeberg.org/mfussenegger/nluarepl) - nlua debug adapter for evaluate/REPL and logpoint support.
+
+#### Deprecated
+
+- Replaced by `vim.lsp.completion`: [nvim-lsp-compl](https://github.com/mfussenegger/nvim-lsp-compl) - A (auto-)completion plugin for Neovim focusing on LSP support.
